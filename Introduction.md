@@ -9,4 +9,4 @@
 **_Note_** - Only Dialogflow's ES (Essentials) is to be used. Entries using any other technologies, such as Dialogflow CX, Rasa, Amazon Lex, LLMs, other custom solutions won't be accepted.
 
 # GET STARTED NOW:
-https://dialogflow.cloud.google.com/ Text
+https://dialogflow.cloud.google.com/
