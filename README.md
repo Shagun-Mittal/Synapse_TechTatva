@@ -4,7 +4,7 @@
 
 Welcome to Echo, a workshop cum hackathon event under Synapse - Techtatva'23 organized at MIT Manipal.
 
-**Theme** - _A chatbot for the freshers of MIT_
+**Theme** - *Will ne released during completion*
 
 **Problem Statement** - MIT, Manipal welcomes a new batch of freshers each year. The task is to design a chatbot who can help these students by answering relevant questions that often trouble them. These questions include (but are not limited to) asking information regarding MIT and Manipal in general. The only allowed technology to be used is [Google’s Dialogflow](https://cloud.google.com/dialogflow/docs).
 
