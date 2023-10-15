@@ -33,7 +33,7 @@ Dialogflow seamlessly integrates with popular platforms like Google Assistant, S
 
 ## Fulfillment for Integrations
 
-Fulfillment enables dynamic responses by calling a defined service when an intent is matched, making it suitable for actions beyond static responses.
+Fulfillment enables dynamic responses by calling a defined service when an intent is matched, making it suitable for actions beyond the static responses.
 
 ## User Interactions with the API
 
