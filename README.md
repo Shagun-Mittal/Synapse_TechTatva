@@ -12,14 +12,14 @@ _Note_ - Only Dialogflow's ES (Essentials) is to be used. Entries using any othe
 
 ---
 
-_To get started with Dialogflow (ES), visit the [resources](resources.md) page._
+_To get started with Dialogflow (ES), visit the [introduction](Introduction.md) page._
 
 **Important Dates:**
 
-- Workshop (online): 15th Oct, 2023
-- Competition (offline) : 19th Oct, 2023
+- Workshop (online): 15th Oct, 2023 | 5 p.m.
+- Competition (offline) : 19th Oct, 2023 | 2 p.m.
 
 **Venue:**
 
-- Workshop: To be decided
-- Competition: To be decided
+- Workshop: Google Meet (link will be shared)
+- Competition: AB3 - 103, MIT Manipal
