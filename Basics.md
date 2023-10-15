@@ -4,6 +4,7 @@
 
 ## Agents
 
+
 A Dialogflow agent is a virtual agent designed to handle user conversations, understanding human language nuances and translating them into structured data. It's similar to a call center agent, trained to handle expected conversations with minimal explicit training.
 
 ## Intents
