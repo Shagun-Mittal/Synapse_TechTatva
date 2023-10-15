@@ -6,7 +6,8 @@ Welcome to Echo, a workshop cum hackathon event under Synapse - Techtatva'23 org
 
 **Theme** - *Will be released during competition*
 
-**Problem Statement** - MIT, Manipal welcomes a new batch of freshers each year. The task is to design a chatbot who can help these students by answering relevant questions that often trouble them. These questions include (but are not limited to) asking information regarding MIT and Manipal in general. The only allowed technology to be used is [Google’s Dialogflow](https://cloud.google.com/dialogflow/docs).
+**Problem Statement** - *Coming Soon* <br>
+The only allowed technology to be used is [Google’s Dialogflow](https://cloud.google.com/dialogflow/docs).
 
 _Note_ - Only Dialogflow's ES (Essentials) is to be used. Entries using any other technologies, such as Dialogflow CX, Rasa, Amazon Lex, LLMs, other custom solutions won't be accepted.
 
